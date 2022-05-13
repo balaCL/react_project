@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './gyt.png';
 import './App.css';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://mp.weixin.qq.com/s/c87UeeU53RY5lfGuNBJUQQ"
           target="_blank"
           rel="noopener noreferrer"
         >
